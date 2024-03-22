@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a product development.
+🔭 I’m currently working as a product development.
 - 🌱 I’m currently learning AWS Services.
 - 👯 I’m looking to collaborate on database schema creation.
 - 🤔 I’m looking for help with ...
